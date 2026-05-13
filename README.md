@@ -36,7 +36,7 @@ Users can add notes, manage form inputs with two-way binding, and delete notes d
 ## Screenshot
 
 <p align="center">
-  <img src="./screenshots/preview.png" alt="Project Screenshot" width="900"/>
+  <img src="screenshots/image.png" alt="Project Screenshot" width="900"/>
 </p>
 
 ---
